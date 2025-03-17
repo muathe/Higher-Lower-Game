@@ -59,7 +59,7 @@ game()
 
 
 
-# sort the game
+# sort it
 
 
 
