@@ -59,7 +59,7 @@ game()
 
 
 
-# sort it out like quicksortt
+# sort out game method
 
 
 
