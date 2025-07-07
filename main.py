@@ -60,7 +60,7 @@ game()
 
 
 #game_over
-#return base
+#return to base
 
 
 
